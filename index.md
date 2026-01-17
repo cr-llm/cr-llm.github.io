@@ -5,7 +5,7 @@ title: Home
 
 # Causality and Large Language Models: Opportunities to Advance Causal Reasoning
 
-A Dagstuhl Seminar exploring the intersection of causal reasoning and large language models. 
+A [Dagstuhl Seminar](https://www.dagstuhl.de/en/seminars/dagstuhl-seminars) exploring the intersection of causal reasoning and large language models. 
 
 <div class="key-info">
   <div class="info-item"><strong>Dates:</strong> April 7-10, 2026</div>
@@ -101,7 +101,3 @@ For language models, a key challenge is to improve their reasoning and reliabili
 </div>
 
 </div>
-
-## About Dagstuhl Seminars
-
-[Dagstuhl Seminars](https://www.dagstuhl.de/en/seminars/dagstuhl-seminars) are week-long events that bring together international experts to discuss cutting-edge topics in computer science. Held at the Leibniz Center for Informatics at Schloss Dagstuhl in Germany, these seminars provide an ideal environment for focused discussion and collaboration.

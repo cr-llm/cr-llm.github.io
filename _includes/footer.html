@@ -1,0 +1,31 @@
+<footer class="site-footer">
+    <div class="container">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Dagstuhl Seminar {{ site.seminar.number }}</h3>
+                <p>{{ site.title }}</p>
+                <p>{{ site.seminar.dates }}</p>
+            </div>
+
+            <div class="footer-section">
+                <h3>Location</h3>
+                <p>{{ site.seminar.location }}</p>
+                <p>{{ site.seminar.city }}</p>
+            </div>
+
+            <div class="footer-section">
+                <h3>Organizers</h3>
+                <ul class="organizer-list">
+                    {% for organizer in site.organizers %}
+                    <li>{{ organizer.name }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <p>&copy; 2026 Dagstuhl Seminar 26152. All rights reserved.</p>
+            <p>Hosted at <a href="https://www.dagstuhl.de" target="_blank">Schloss Dagstuhl</a></p>
+        </div>
+    </div>
+</footer>

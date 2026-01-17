@@ -1,0 +1,55 @@
+# Dagstuhl Seminar 26152 - Causality and Large Language Models
+title: "Causality and Large Language Models"
+subtitle: "Dagstuhl Seminar 26152"
+description: "Opportunities to Advance Causal Reasoning - April 7-10, 2026"
+baseurl: ""
+url: "https://cr-llm.github.io"
+
+# Build settings
+markdown: kramdown
+# theme: minima  # Disabled to use custom layout
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Organizers
+    url: /organizers
+  - title: Schedule
+    url: /schedule
+  - title: Participants
+    url: /participants
+  - title: Location
+    url: /location
+  - title: Resources
+    url: /resources
+
+# Seminar details
+seminar:
+  number: 26152
+  dates: "April 7-10, 2026"
+  location: "Schloss Dagstuhl – Leibniz Center for Informatics"
+  city: "Wadern, Germany"
+
+# Organizers
+organizers:
+  - name: "Dominik Janzing"
+    affiliation: "Amazon Web Services - Tübingen"
+  - name: "Zhijing Jin"
+    affiliation: "MPI für Intelligente Systeme - Tübingen"
+  - name: "Amit Sharma"
+    affiliation: "Microsoft Research India - Bangalore"
+  - name: "Kun Zhang"
+    affiliation: "Carnegie Mellon University - Pittsburgh"
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Plugins
+plugins:
+  - jekyll-seo-tag

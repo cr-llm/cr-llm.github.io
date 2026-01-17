@@ -35,4 +35,3 @@ The site is automatically deployed to GitHub Pages using GitHub Actions when cha
 
 ## License
 
-© 2026 Dagstuhl Seminar 26152. All rights reserved.

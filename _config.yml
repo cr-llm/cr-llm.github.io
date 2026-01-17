@@ -13,16 +13,16 @@ markdown: kramdown
 navigation:
   - title: Home
     url: /
-  - title: Organizers
-    url: /organizers
+#  - title: Organizers
+#    url: /organizers
   - title: Schedule
     url: /schedule
   - title: Participants
     url: /participants
   - title: Location
     url: /location
-  - title: Resources
-    url: /resources
+#  - title: Resources
+#    url: /resources
 
 # Seminar details
 seminar:

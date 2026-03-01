@@ -7,7 +7,7 @@ title: Home
 
 A Dagstuhl Seminar exploring the intersection of causal reasoning and large language models.
 
-Website: https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26152
+Website: [https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26152](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26152)
 
 <div class="key-info">
   <div class="info-item"><strong>Dates:</strong> April 7-10, 2026</div>
